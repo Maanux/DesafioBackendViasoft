@@ -12,7 +12,7 @@ O envio **não é realizado de fato**, apenas **simulado**, serializando o objet
 ## 🛠️ Tecnologias Utilizadas
 
 * **Java 17+**
-* **Spring Boot 3.x**
+* **Spring Boot 3.5.6**
 * **Spring Web**
 * **Spring Validation**
 * **Jackson (para serialização JSON)**
