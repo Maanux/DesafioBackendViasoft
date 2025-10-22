@@ -30,8 +30,8 @@ src/
  │   │   ├─ controller/        → Controlador REST (EmailController)
  │   │   ├─ domain/            → Mensagem de erros (ValidationException)
  │   │   ├─ dto/               → Objetos de transferência (DTOs)
- │   │   │    ├─ mail/EmailDTO.java
  │   │   │    ├─ awsMail/EmailAwsDTO.java
+ │   │   │    ├─ mail/EmailDTO.java
  │   │   │    └─ ociMail/EmailOciDTO.java
  │   │   ├─ infra/exception/   → Tratamento global de exceções
  │   │   └─ service/           → Regras de negócio (EmailService)
