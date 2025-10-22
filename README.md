@@ -17,7 +17,7 @@ O envio **não é realizado de fato**, apenas **simulado**, serializando o objet
 * **Spring Validation**
 * **Jackson (para serialização JSON)**
 * **Springdoc OpenAPI (Swagger UI)**
-* **JUnit 5 + Mockito (para testes unitários)**
+* **JUnit 5 (para testes unitários)**
 
 ---
 
