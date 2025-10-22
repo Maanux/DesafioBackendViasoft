@@ -106,12 +106,6 @@ Os testes validam:
 * Validação dos campos obrigatórios
 * Tratamento de exceções (400 e 500)
 
-Para executar:
-
-```bash
-mvn test
-```
-
 Exemplo de teste (`EmailServiceTest.java`):
 
 ```java
